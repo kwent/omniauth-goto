@@ -4,7 +4,7 @@
 
 This is the official OmniAuth strategy for authenticating to GoTo. To
 use it, you'll need to sign up for an OAuth2 Client ID and Secret
-on the [GoTo Developer Page](https://community.servicenow.com/community?id=community_blog&sys_id=56086e4fdb9014146064eeb5ca961957).
+on the [GoTo Developer Page](https://developer.logmeininc.com/clients).
 
 ## Installation
 
